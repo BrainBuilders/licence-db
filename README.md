@@ -1,0 +1,1 @@
+This is the temporary database for the license server
